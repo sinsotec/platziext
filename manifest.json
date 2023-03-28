@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Platzi Enhanced",
     "version": "0.1.0",
-    "description": "Hide comments in playgrounds",
+    "description": "Some features for Platzi",
     "author": "Orlando Sánchez",
     "icons": {
         "16": "images/icon-16.png",
@@ -20,7 +20,7 @@
             "48": "images/icon-48.png",
             "128": "images/icon-128.png"
         },
-            "default_title": "Platzi mejora"
+            "default_title": "Platzi Enhanced"
     },
     "permissions": [
         "activeTab",
