@@ -1,0 +1,101 @@
+/*Comentario en clases y ajuste de playground*/
+.MaterialView-community {
+    display: none !important;
+}
+
+@media only screen and (max-width: 1440px) {
+    .MaterialView {
+        display: inherit !important;
+    }
+    .MaterialView-content {
+        margin: 0 40px 0 40px !important;
+    }
+    
+    .MaterialIframe iframe {
+        height: 41.75rem !important;
+    }
+
+    .Header-course {
+        margin-top: 0px !important;
+    }
+}
+
+
+@media only screen and (min-width: 1441px) {
+    .MaterialView-content {
+        max-width: 90% !important;
+    }
+
+    .MaterialIframe iframe {
+        height: 41.75rem !important;
+    }
+
+    .Header-course {
+        margin-top: 0px !important;
+    }
+}
+
+
+/*Modo oscuro*/
+
+.LabTutorials-contributions {
+    background-color: #121F3D !important;
+    transition: background-color 1s linear;
+}
+
+.Contribution {
+    background-color: #24385B !important;
+    border-color: #24385B !important;
+}
+
+.Contribution-extract {
+    color: #eff3f8cc !important;
+}
+
+.Star {
+    background-color: #24385b !important;
+    border: 1px solid #33b1ff !important;
+}
+
+.Search-input {
+    background-color: #03091e !important;
+    border: 1px solid #40587c !important;
+}
+
+
+.MainDiscussion-body {
+    background-color: #121F3D !important;
+    transition: background-color 1s linear;
+    color: #eff3f8cc !important;
+    transition: color 1s linear;
+}
+
+#top {
+    background-color: #121F3D !important;
+}
+
+.DiscusionDetail-comments {
+    background-color: #121F3D !important;
+    border-color: #eff3f8cc !important;
+}
+
+.CommentContent-text {
+    color: #eff3f8cc !important;
+}
+
+#contribution-detail > :first-child {
+    background-color: #121F3D !important;
+}
+
+
+
+textarea {
+    background-color: #03091e !important;
+    border: 1px solid #40587c !important;
+    color: #eff3f8cc !important;
+}
+
+.PulseEditor-preview {
+    background-color: #03091e !important;
+    color: #eff3f8cc !important;
+}
