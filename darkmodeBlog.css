@@ -1,0 +1,156 @@
+:root {
+    --textarea-blue: #03091e;
+    --darknest-blue: #0C1633;
+    --dark-blue:  #24385B;
+    --bg-blue: #121f3d;
+    --middle-blue: #214169;
+    --light-blue: #33b1ff;
+    --grey-blue: #40587c;
+    --grey-text: #eff3f8cc;
+    --middle-gray: #8da2c0;
+}
+
+/*Modo oscuro*/
+
+.box span {
+    color: var(--grey-text) !important;
+}
+
+.TOSNotification {
+    background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.Menu-list-item > a > div {
+    color: var(--grey-text) !important;
+}
+
+.box {
+    background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.LastCourse-content {
+    background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+h1.Discussion-title-text.is-white {
+    color: var(--grey-text) !important;
+}
+
+.LabTutorials-contributions {
+    background-color: var(--bg-blue) !important;
+    transition: background-color 1s linear;
+}
+
+.Contribution {
+    background-color: var(--dark-blue) !important;
+    border-color: var(--dark-blue) !important;
+}
+
+.Contribution-extract {
+    color: var(--grey-text) !important;
+}
+
+.Star {
+    background-color: #24385b !important;
+    border: 1px solid #33b1ff !important;
+}
+
+.Star-number {
+    color: #33b1ff !important;
+}
+
+.Search-input {
+    background-color: #03091e !important;
+    border: 1px solid #40587c !important;
+}
+
+
+.MainDiscussion-body {
+    background-color: var(--bg-blue) !important;
+    color: var(--grey-text) !important;
+    transition: background-color 1s linear;
+    transition: color 1s linear;
+}
+
+#top {
+    background-color: var(--bg-blue) !important;
+}
+
+.DiscusionDetail-comments {
+    background-color: var(--bg-blue) !important;
+    border-color: var(--grey-text) !important;
+}
+
+.CommentContent-text {
+    color: var(--grey-text) !important;
+}
+
+#contribution-detail > :first-child {
+    background-color: var(--bg-blue) !important;
+}
+
+
+.InitialComment.is-white {
+    background-color: var(--dark-blue) !important;
+    transition: background-color 1s linear;
+}
+
+.PulseEditor-toolbar {
+    background-color: var(--middle-blue) !important;
+    color: var(--middle-gray) !important;
+}
+
+.PulseEditor-button {
+    color: var(--middle-gray) !important;
+}
+
+.PulseEditor-button:hover {
+    background-color: var(--dark-blue) !important;
+}
+
+textarea {
+    background-color: var(--textarea-blue) !important;
+    border: 1px solid var(--gray-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.PulseEditor-wide {
+    background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.PulseEditor-preview {
+    background-color: var(--textarea-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.PulseEditor-helpbar {
+    color: var(--grey-text) !important;
+}
+
+/* div.PulseEditor-submit {
+    background-color: #0791e6 !important;
+} */
+
+div.PulseEditor-submit > * {
+    color: var(--grey-text) !important;
+}
+
+.CommentActions {
+    background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.PostCard {
+    background-color: var(--dark-blue) !important;
+    border-color: var(--grey-text) !important;
+    color: var(--grey-text) !important;
+}
+
+
+
+
+

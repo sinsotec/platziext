@@ -99,3 +99,14 @@ textarea {
     background-color: #03091e !important;
     color: #eff3f8cc !important;
 }
+
+/*Paginas de comentarios*/
+
+
+.prettify-desert {
+    background-color: #24385B !important;
+    color: #eff3f8cc !important;
+    transition: background-color 1s linear;
+}
+
+

@@ -1,0 +1,128 @@
+/*Modo oscuro*/
+
+/*Paginas de comentarios*/
+:root {
+    --textarea-blue: #03091e;
+    --darknest-blue: #0C1633;
+    --dark-blue: #24385B;
+    --bg-blue: #121F3D;
+    --middle-blue: #214169;
+    --light-blue: #33b1ff;
+    --grey-blue: #40587c;
+    --grey-text: #eff3f8cc;
+    --middle-gray: #8da2c0;
+}
+
+.TOSNotification {
+    background-color: var(--dark-blue) !important;
+}
+
+.Menu-list-item > a > div {
+    color: var(--grey-text) !important;
+}
+
+.box {
+    background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.LastCourse-content {
+    background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.MainContribution-breadcrumb {
+    background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+    transition: background-color 1s linear;
+}
+
+.prettify-desert {
+    background-color: var(--bg-blue) !important;
+    color: var(--grey-text) !important;
+    transition: background-color 1s linear;
+}
+
+/* .MainContribution-text {
+    color-scheme: dark;
+} */
+
+.MainContribution-text::-webkit-scrollbar {
+    background-color: var(--middle-blue) !important;
+}
+
+
+.MainContribution-text::-webkit-scrollbar-thumb {
+    background-color: var(--dark-blue) !important;
+}
+
+
+.DiscusionDetail-comments {
+    background-color: var(--bg-blue) !important;
+    border-color: var(--grey-text) !important;
+    transition: background-color 1s linear;
+}
+
+.InitialComment.is-white {
+    background-color: var(--dark-blue) !important;
+    transition: background-color 1s linear;
+}
+
+.PulseEditor-toolbar {
+    background-color: var(--middle-blue) !important;
+    color: var(--middle-gray) !important;
+}
+
+.PulseEditor-button {
+    color: var(--middle-gray) !important;
+}
+
+.PulseEditor-button:hover {
+    background-color: var(--dark-blue) !important;
+}
+
+textarea {
+    background-color: var(--textarea-blue) !important;
+    border: 1px solid var(--gray-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.PulseEditor-wide {
+    background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.PulseEditor-preview {
+    background-color: var(--textarea-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.PulseEditor-helpbar {
+    color: var(--grey-text) !important;
+}
+
+/* div.PulseEditor-submit {
+    background-color: #0791e6 !important;
+} */
+
+div.PulseEditor-submit > * {
+    color: var(--grey-text) !important;
+}
+
+.MainContribution-category {
+    background-color: var(--dark-blue) !important;
+
+}
+
+.MainContribution-title>span {
+    color: var(--grey-text) !important;
+}
+
+.Star {
+    background-color: var(--dark-blue) !important;
+    border: 1px solid var(--light-blue) !important;
+}
+
+.Star-number {
+    color: var(--light-blue) !important;
+}
