@@ -1,12 +1,12 @@
 {
     "manifest_version": 3,
     "name": "Platzi Enhanced",
+    "default_locale": "es",
     "version": "0.1.2",
     "description": "Some features for Platzi",
-    "author": "Orlando Sánchez",
+    "author": "Orlando Sánchez, soported by Platzi's Ambassadors",
     "icons": {
-        "16": "images/platzitoolzablanco.png",
-        "32": "images/platzitoolzablanco.png",
+        "32": "images/platzitoolza2_negro-32.png",
         "48": "images/platzitoolzablanco.png",
         "128": "images/platzitoolzablanco.png"
     },
@@ -15,8 +15,7 @@
     },
     "action": {
         "default_icon": {
-            "16": "images/platzitoolzablanco.png",
-            "32": "images/platzitoolzablanco.png",
+            "32": "images/platzitoolza2_negro-32.png",
             "48": "images/platzitoolzablanco.png",
             "128": "images/platzitoolzablanco.png"
         },
