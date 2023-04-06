@@ -30,13 +30,38 @@
     color: var(--grey-text) !important;
 }
 
+.Outstanding {
+    background-color: var(--light-blue) !important;
+    border-color: var(--light-blue) !important;
+}
+
+.CareerList {
+    background-color: var(--dark-blue) !important;
+}
+
 .LastCourse-content {
     background-color: var(--dark-blue) !important;
     color: var(--grey-text) !important;
 }
 
+.HeroSearch {
+    background-color: var(--dark-blue) !important;
+}
+
+.HeroSearch-copy > span {
+    color: var(--grey-text) !important;
+}
+
 h1.Discussion-title-text.is-white {
     color: var(--grey-text) !important;
+}
+
+.ContributionTitle > a {
+    color: var(--grey-text) !important;
+}
+
+.CareerList {
+    border: 0px !important;
 }
 
 .LabTutorials-contributions {
@@ -139,8 +164,30 @@ div.PulseEditor-submit > * {
     color: var(--grey-text) !important;
 }
 
+.Filters-container {
+    background-color: inherit !important;
+}
+
+.Filters-selected:hover {
+    background-color: var(--middle-blue) !important;
+}
+
+.Filters-available > * {
+    background-color: var(--middle-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.Filters-available > *:hover {
+    background-color: var(--dark-blue) !important;
+}
+
 .CommentActions {
     background-color: var(--dark-blue) !important;
+    color: var(--grey-text) !important;
+}
+
+.Pagination {
+    background-color: var(--middle-blue) !important;
     color: var(--grey-text) !important;
 }
 

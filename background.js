@@ -68,7 +68,6 @@ chrome.action.onClicked.addListener(async (tab) => {
     if (tab.url.startsWith(platziBlog)) {
         await activateExt(tab, 'darkmodeBlog.css')
     }
-
     if (tab.url.startsWith(platziComments)) {
         await activateExt(tab, 'darkmodeComments.css')
     }
