@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Platzi Enhanced",
     "default_locale": "es",
-    "version": "0.1.3",
+    "version": "0.1.5",
     "description": "Some features for Platzi",
     "author": "Orlando Sánchez, Logo Desing and images by @Ralexdro, soported by Platzi's Ambassadors Computer Science",
     "icons": {
